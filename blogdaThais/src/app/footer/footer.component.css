@@ -1,0 +1,17 @@
+.social-network li{
+display: inline;
+margin: 0;
+padding: 5px;
+}
+
+.faLinkedin, .faGithub{
+    color: white;
+}
+
+
+.faLinkedin hover{
+    color: #0072b1;
+}
+
+
+
