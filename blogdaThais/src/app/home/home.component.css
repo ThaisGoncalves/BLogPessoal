@@ -1,0 +1,9 @@
+.parallax{
+    background-image: url('https://api.time.com/wp-content/uploads/2014/05/vladstudio.jpg');
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
